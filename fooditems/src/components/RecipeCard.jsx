@@ -17,6 +17,7 @@ const RecipeCard = ({ recipe }) => {
                 alt={strMeal}
                 className="card-image"
             />
+            <hr />
             <div className="card-body">
                 <span className="category">{strCategory}</span>
                 <h3>{strMeal}</h3>

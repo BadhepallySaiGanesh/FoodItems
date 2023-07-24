@@ -4,8 +4,8 @@
   }
   
   .container {
-    background-color: #f7f7f7;
-    max-width: 1000px;
+    background-color:rgb(86, 220, 220);
+    max-width: 1200px;
     min-height: 100vh;
     margin: 30px auto;
     padding: 30px;
@@ -57,7 +57,7 @@
     width: 200px;
     background-color: white;
     margin: 10px;
-    border-radius: 5px;
+    border-radius: 8px;
     padding-bottom: 10px;
   }
   
